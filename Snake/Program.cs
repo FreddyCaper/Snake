@@ -10,8 +10,19 @@ namespace Snake
             p1.Draw(); 
 
             Point p2 = new Point(3,5,'#');
-            2.Draw();
-            
+            p2.Draw();
+
+            HorizontalLine Hline = new HorizontalLine(10,50, 7,'=');
+            Hline.Draw();
+
+            VerticalLine Vline = new VerticalLine(20, 1, 20, '|');
+            Vline.Draw();
+
+
+
+
+
+
             Console.ReadLine();
         }
        

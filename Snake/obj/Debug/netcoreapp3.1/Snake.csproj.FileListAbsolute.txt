@@ -1,13 +1,13 @@
+D:\Freddy\----- OOP geekbrains\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+D:\Freddy\----- OOP geekbrains\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+D:\Freddy\----- OOP geekbrains\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
 D:\Freddy\----- OOP geekbrains\Snake\bin\Debug\netcoreapp3.1\Snake.exe
 D:\Freddy\----- OOP geekbrains\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
 D:\Freddy\----- OOP geekbrains\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
 D:\Freddy\----- OOP geekbrains\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
 D:\Freddy\----- OOP geekbrains\Snake\bin\Debug\netcoreapp3.1\Snake.dll
 D:\Freddy\----- OOP geekbrains\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
-D:\Freddy\----- OOP geekbrains\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
-D:\Freddy\----- OOP geekbrains\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
-D:\Freddy\----- OOP geekbrains\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
-D:\Freddy\----- OOP geekbrains\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
 D:\Freddy\----- OOP geekbrains\Snake\obj\Debug\netcoreapp3.1\Snake.dll
 D:\Freddy\----- OOP geekbrains\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
 D:\Freddy\----- OOP geekbrains\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
+D:\Freddy\----- OOP geekbrains\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
